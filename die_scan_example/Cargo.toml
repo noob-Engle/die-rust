@@ -1,0 +1,9 @@
+[package]
+name = "die_scan_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+die_scan = { path = "../die_scan" }
+clap = "3.0.0"
+crossterm = "0.22.1"

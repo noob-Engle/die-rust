@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"die_scan", 
+    "die_scan_example"
+]
